@@ -1,10 +1,10 @@
-.bold.text {
+.bold .text {
     color: red;
     background-color: yellow;
     font-size: 20px;
     text-align: center;
 }
 
-.bold.textsp {
-    background-color: yellow;
+.bold .text.sp {
+    text-align: center;
 }
